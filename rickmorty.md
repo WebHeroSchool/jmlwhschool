@@ -1,0 +1,1 @@
+Regular "Hello World" string
